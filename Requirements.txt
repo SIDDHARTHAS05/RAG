@@ -1,0 +1,9 @@
+streamlit 
+pdfplumber 
+# chromadb 
+torch 
+transformers 
+sentence-transformers 
+rank-bm25
+filtz
+chromadb

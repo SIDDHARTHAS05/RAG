@@ -1,0 +1,17 @@
+"What was the revenue of Company X in 2023?"
+"What were the net profits of Company X in the last two years?"
+"What is the total debt reported by Company X in 2022?"
+"How much did Company X spend on research and development (R&D) in 2023?"
+"What were the total assets of Company X in the most recent financial statement?"
+
+"What factors contributed to Company X's profit growth in 2023?"
+"How has Company X's operating expenses changed from 2022 to 2023?"
+"Did Company X report any net losses in the last two years?"
+"What is the EBITDA margin of Company X for the latest financial year?"
+"What was the gross profit margin for Company X in Q2 2023?"
+
+"What is the cash flow from operating activities in 2023?"
+"Did Company X invest in any new projects or acquisitions in 2022?"
+"What is the capital expenditure of Company X in the last fiscal year?"
+"How much dividend did Company X pay to shareholders in 2023?"
+"What were the major financing activities reported in the last financial statement?"
