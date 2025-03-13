@@ -1,6 +1,6 @@
 import streamlit as st
-from RAG_Retrieval import retrieve_documents
-from RAG_ResponseGeneration import generate_response
+# from RAG_Retrieval import retrieve_documents
+# from RAG_ResponseGeneration import generate_response
 
 # Streamlit UI with loading spinner
 def main():
